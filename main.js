@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent = "Đây là nội dung của bức thư mà người ấy sẽ đọc được. Hãy viết gì đó cho người đó thôi nào. Cảm ơn bạn đã xem"
+var letterContent = "Gửi đến cô gái bé nhỏ của tôi. Tuy chúng ta ít nói chuyện và trao đổi với nhau và cũng vô tình làm cho em thiệt thòi hơn những cô gái khác vì không thể cùng em đi chơi xem phim hay làm những việc lãng mạn mà bao cặp đôi khác đều có. Vì yêu xa anh cũng không thể chạy tới ôm em lúc em buồn và vấp ngã trước cuộc sống. Tuy em luôn tỏ ra mạnh mẽ nhưng anh biết em không mạnh mẽ như vẻ bề ngoài em tỏ ra. Tuy chúng ta ít gặp nhau nhưng anh biết chúng ta đã rất hiểu về nhau thế nên em có thể khóc mỗi khi anh gọi đến để gạt bỏ đi các áp lực của cuộc sống vào anh. Anh sẽ thay em gánh lấy gánh nặng đó và yêu thương em cho đến già. Và cuối cùng mùa valentine này chúng ta vẫn chưa thể bên nhau nhưng anh chúc cho em hạnh phúc, xinh đẹp và sống vui vẻ hơn mỗi ngày. Anh yêu em và anh sẽ chờ ngày mà em quay về bên anh."
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
